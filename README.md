@@ -18,9 +18,11 @@ Funded proposals in Project Catalyst
 
 Cardano Ambassador Workshops
 - A series of dicsussion at the Cardano Ambassador - Meetup Organiser calls which initiated the idea of organising and running local in-person workshops with and for Cardano Ambassadors.
-
+Cardano Ambassador Tools
+- We dont have the tools we need to effectively support Cardano Ambassadors in their roles and activities, lets change that and collaborate with the Cardano developer community to build the tools we need and want
+  
 |Fund|Title|Proposal Lead|Start|Status|Completed|Budget|
 |----|----|----|----|----|----|----|
-|[Fund13](https://projectcatalyst.io/funds/13)|[Title](link tba)|[Felix](https://x.com/CatalystSwarm), [Beatrice](https://x.com/BeatriceAnihiri)|January 2025|Ideation|March 2025|Ada 35.000|
-
+|[Fund13](https://projectcatalyst.io/funds/13)|[Cardano Ambassador Workshop Europe](https://cardano.ideascale.com/c/idea/131586)|[Felix](https://x.com/CatalystSwarm), [Beatrice](https://x.com/BeatriceAnihiri)|January 2025|Pending Vote results|March 2025|Ada 49,810|
+|[Fund13](https://projectcatalyst.io/funds/13)|[Cardano Ambassador Tools](https://cardano.ideascale.com/c/idea/131565)|[Felix](https://x.com/CatalystSwarm)|January 2025|Pending Vote results|March 2025|Ada 110,000|
 
